@@ -1,7 +1,7 @@
 #!/bin/sh
 
 DIR=$(dirname "$0")
-SITE_DIR="public/"
+SITE_DIR="as_published/"
 
 if [[ $(git status -s) ]]
 then
