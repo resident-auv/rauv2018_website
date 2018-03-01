@@ -9,10 +9,11 @@ then
     exit 1;
 fi
 
-## Copy
+## Site is copied to ovid:public_html/$branch/
+## unless the branch is current
 branch=$(git symbolic-ref --short HEAD)
 $loc = $branch
-if [ $branch eq "" ]; then
+if [ $branch eq "current" ]; then
   $loc = ""
 fi
 
