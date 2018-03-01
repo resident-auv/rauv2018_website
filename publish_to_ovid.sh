@@ -28,7 +28,7 @@ mkdir -p $SITE_DIR
 echo "Generating site"
 hugo $HUGO_OPTS
 
-echo "Branch is $branch, copying to public_html/$loc"
+echo "Branch is $branch, copying to $loc"
 
 echo "Copying to Ovid"
 rsync -e ssh -aPvc $SITE_DIR/ rauv@ovid.u.washington.edu:$loc
