@@ -4,6 +4,8 @@ languageCode = "en-us"
 title = "Resident AUV Workshop"
 theme = "ananke"
 
+publishDir = "as_published/"
+
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
