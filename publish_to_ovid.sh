@@ -28,6 +28,12 @@ mkdir -p $SITE_DIR
 echo "Generating site"
 hugo $HUGO_OPTS
 
+if [ ! -f "$SITE_DIR/index.html" ]; then
+  echo "Something went wrong making the site"
+  exit -1
+fi
+
+
 echo "Branch is $branch, copying to $loc"
 
 echo "Copying to Ovid"
