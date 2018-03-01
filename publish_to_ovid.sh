@@ -9,6 +9,8 @@ then
     exit 1;
 fi
 
+branch=$(git symbolic-ref --short HEAD)
+
 echo "Deleting old publication"
 rm -rf $SITE_DIR
 mkdir -p $SITE_DIR
@@ -25,4 +27,4 @@ echo "Generating site"
 hugo
 
 echo "Copying to Ovid"
-rsync -e ssh -aPvc $SITE_DIR/ rauv@ovid.u.washington.edu:public_html/
+rsync -e ssh -aPvc $SITE_DIR/ rauv@ovid.u.washington.edu:public_html/$branch
