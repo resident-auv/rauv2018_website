@@ -15,7 +15,7 @@ fi
 branch=$(git symbolic-ref --short HEAD)
 loc="public_html/$branch"
 
-if [ $branch = "current" ]; then
+if [ $branch = "master" ]; then
   loc="public_html/"
 elif [ $branch = "next" ]; then
   HUGO_OPTS+=" -b https://depts.washington.edu/rauv/next/"
