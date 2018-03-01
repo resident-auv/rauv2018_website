@@ -13,7 +13,7 @@ fi
 ## unless the branch is current
 branch=$(git symbolic-ref --short HEAD)
 loc=$branch
-if [ $branch eq "current" ]; then
+if [ $branch = "current" ]; then
   loc=""
 fi
 
@@ -31,6 +31,9 @@ rm -rf $SITE_DIR/*
 
 echo "Generating site"
 hugo
+
+echo "Branch is $branch, copying to public_html/$loc"
+
 
 echo "Copying to Ovid"
 rsync -e ssh -aPvc $SITE_DIR/ rauv@ovid.u.washington.edu:public_html/$loc
