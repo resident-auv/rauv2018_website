@@ -1,7 +1,7 @@
 #!/bin/sh
 
 DIR=$(dirname "$0")
-SITE_DIR="public/"
+SITE_DIR="as_published/"
 
 if [[ $(git status -s) ]]
 then
@@ -24,5 +24,5 @@ rm -rf $SITE_DIR/*
 echo "Generating site"
 hugo
 
-echo "Updating master branch"
-cd $SITE_DIR && git add --all && git commit -m "Publishing to master (publish_to_ghpages.sh)" && 	git push origin master
+echo "Copying to Ovid"
+rsync -e ssh -aPvc $SITE_DIR/ rauv@ovid.u.washington.edu:public_html/
