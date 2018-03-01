@@ -3,12 +3,13 @@
 DIR=$(dirname "$0")
 SITE_DIR="as_published/"
 
-# if [[ $(git status -s) ]]
-# then
-#     echo "The working directory is dirty. Please commit any pending changes."
-#     exit 1;
-# fi
+if [[ $(git status -s) ]]
+then
+    echo "The working directory is dirty. Please commit any pending changes."
+    exit 1;
+fi
 
+## Copy
 branch=$(git symbolic-ref --short HEAD)
 $loc = $branch
 if [ $branch eq "" ]; then
