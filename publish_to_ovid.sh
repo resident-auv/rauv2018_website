@@ -12,9 +12,9 @@ fi
 ## Site is copied to ovid:public_html/$branch/
 ## unless the branch is current
 branch=$(git symbolic-ref --short HEAD)
-$loc = $branch
+loc=$branch
 if [ $branch eq "current" ]; then
-  $loc = ""
+  loc=""
 fi
 
 echo "Deleting old publication"
