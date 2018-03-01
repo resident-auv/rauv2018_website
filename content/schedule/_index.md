@@ -2,7 +2,7 @@
 title: "Schedule"
 ---
 
-_(tentative schedule, subject to change)_
+_(tentative schedule TBD)_
 
 ## May 9
 
