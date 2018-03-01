@@ -1,7 +1,7 @@
-#!/bin/sh
+#!/bin/bash
 
-DIR=$(dirname "$0")
 SITE_DIR="as_published/"
+HUGO_OPTS=""
 
 if [[ $(git status -s) ]]
 then
@@ -9,31 +9,26 @@ then
     exit 1;
 fi
 
+
 ## Site is copied to ovid:public_html/$branch/
 ## unless the branch is current
 branch=$(git symbolic-ref --short HEAD)
-loc=$branch
+loc="public_html/$branch"
+
 if [ $branch = "current" ]; then
-  loc=""
+  loc="public_html/"
+elif [ $branch = "next" ]; then
+  HUGO_OPTS+=" -b https://depts.washington.edu/rauv/next/"
 fi
 
 echo "Deleting old publication"
 rm -rf $SITE_DIR
 mkdir -p $SITE_DIR
-git worktree prune
-rm -rf .git/worktrees/$SITE_DIR
-
-echo "Checking out master branch into public"
-git worktree add -B master $SITE_DIR origin/master
-
-echo "Removing existing files"
-rm -rf $SITE_DIR/*
 
 echo "Generating site"
-hugo
+hugo $HUGO_OPTS
 
 echo "Branch is $branch, copying to public_html/$loc"
 
-
 echo "Copying to Ovid"
-rsync -e ssh -aPvc $SITE_DIR/ rauv@ovid.u.washington.edu:public_html/$loc
+rsync -e ssh -aPvc $SITE_DIR/ rauv@ovid.u.washington.edu:$loc
