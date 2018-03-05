@@ -2,6 +2,12 @@
 
 This site is written in [Hugo](https://gohugo.io).   To build the website, first [install Hugo](https://gohugo.io/getting-started/installing/).
 
+Then:
+
+    git clone https://github.com/resident-auv/rauv2018_website.git
+    cd rauv2018_website
+    make serve
+
 The [Makefile](Makefile) contains a two rules:
 
   - `make serve` will run Hugo in server mode,
@@ -10,6 +16,8 @@ The [Makefile](Makefile) contains a two rules:
   - `make ovid` will push the website to the UW web hosting system.
     You must have permission to access the `rauv` web hosting account.  You won't be able to push if there are any pending changes which haven't been commited to Git.
     The resulting website will be at [https://depts.washington.edu/rauv/](https://depts.washington.edu/rauv/)
+
+If you aren't comfortable publishing the website or you don't have permission, please use a [pull request!](https://help.github.com/articles/about-pull-requests/)
 
 ## Organization
 
