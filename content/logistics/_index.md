@@ -1,5 +1,6 @@
 ---
 title: "Logistics"
+weight: 40  # weight sets the order in the menu at the top of the page
 ---
 
 The Resident AUV Workshop will be held May 9-11 in [Maple Hall](http://uw.edu/maps/?mah) near the University of Washington Seattle campus.

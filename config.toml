@@ -21,12 +21,13 @@ enableRobotsTXT = true
 [params]
   favicon = ""
   description = "Resident AUV Workshop 2018"
-  facebook = ""
+  # facebook = ""
   #twitter = "https://twitter.com/GoHugoIO"
-  instagram = ""
-  youtube = ""
-  github = ""
-  linkedin = ""
+  # instagram = ""
+  # youtube = ""
+  # github = ""
+  # linkedin = ""
+
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
   featured_image = "/images/Camhd_Mushroom_header.jpg"
