@@ -1,12 +1,18 @@
 
+## Launch a local server.  Check the console output
+#  for the address
+serve: themes/ananke/README.md
+	hugo serve
 
-## Deploy a copy to Aaron's UW web publishing account:
-## http://staff.washington.edu/amarburg/cabled_array_hw2018/
-# ovid:
-# 	hugo -b http://staff.washington.edu/amarburg/cabled_array_hw2018/ -d public_ovid
-# 	rsync -e ssh -aPvc public_ovid/ ovid:public_html/cabled_array_hw2018/
+## Publish to:
+##  https://depts.washington.edu/rauv/
+##
+## Need to have access to the web host ovid.u.washinton.edu
+ovid: themes/ananke/README.md
+	./publish_to_ovid.sh
 
-github:
-	./publish_to_master.sh
 
-PHONY: ovid github
+themes/ananke/README.md:
+	git submodule update --init
+
+PHONY: ovid server
