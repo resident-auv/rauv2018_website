@@ -3,6 +3,13 @@ title: ""
 #description: "February 21-23 2018, UW School of Oceanography"
 ---
 
+## [Registration now open!](https://form.jotform.com/80745900013145)
+
+Questions?   Please email us [rauv@uw.edu](rauv@uw.edu)!
+
+----
+
+
 # Workshop on Remotely Deployed, Interactive, Deep Ocean Robotic Vehicles: “RESIDENT-AUVs”
 
 ## May 9-11, 2018
