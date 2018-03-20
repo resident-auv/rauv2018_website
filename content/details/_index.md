@@ -1,5 +1,5 @@
 ---
-title: "Logistics"
+title: "Details"
 weight: 40  # weight sets the order in the menu at the top of the page
 ---
 
@@ -11,7 +11,7 @@ src="https://www.google.com/maps/embed/v1/place?q=Maple%20Hall%2C%20University%2
 
 ## Accommodataion
 
-We have secured group rates at the:
+We have reserved XX spaces at group rates at the following hotels:
 
  * [Silver Cloud Inn](https://www.silvercloud.com/university/) (1.3 miles from the venue)
  * [University Inn](https://www.staypineapple.com/university-inn-seattle-wa) (0.2 miles from the venue)

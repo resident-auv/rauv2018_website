@@ -1,7 +1,7 @@
 baseURL = "https://depts.washington.edu/rauv/"
 #baseURL = "http://staff.washington.edu/amarburg/cabled_array_hw2018/"
 languageCode = "en-us"
-title = "Resident AUV Workshop"
+title = "Resident AUV Workshop 2018"
 theme = "ananke"
 
 publishDir = "as_published/"

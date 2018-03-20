@@ -2,7 +2,7 @@
 ## Launch a local server.  Check the console output
 #  for the address
 serve: themes/ananke/README.md
-	hugo serve
+	hugo serve --noHTTPCache
 
 ## Publish to:
 ##  https://depts.washington.edu/rauv/
