@@ -11,11 +11,12 @@ src="https://www.google.com/maps/embed/v1/place?q=Maple%20Hall%2C%20University%2
 
 ## Accommodataion
 
-We have reserved XX spaces at group rates at the following hotels:
+We have reserved space at group rates at the following hotels:
 
  * [Silver Cloud Inn](https://www.silvercloud.com/university/) (1.3 miles from the venue)
+ * [Watertown Hotel](https://www.staypineapple.com/watertown-hotel-seattle-wa) (0.3 miles from venue)
  * [University Inn](https://www.staypineapple.com/university-inn-seattle-wa) (0.2 miles from the venue)
 
-To secure these group rates ....
+To secure a group rates, please mention  "Resident AUV - UW Oceanography" by __April 10th__.
 
 Please contact us at [rauv@uw.edu](mailto:rauv@uw.edu) with questions.
