@@ -27,10 +27,10 @@ Please contact us at [rauv@uw.edu](mailto:rauv@uw.edu) with questions.
     // Third column is Google "Place ID".  Look up here:
     //  https://developers.google.com/places/place-id
     var locations = [
-      ['Maple Hall', 'MH', "ChIJgdYywfMUkFQRFQYbApRgxRQ"],
-      ['Silver Cloud Inn', '1', "ChIJdS0Vx4cUkFQRv-UDFEvfpKY"],
-      ['Watertown Hotel', '2', "ChIJNXONXPQUkFQRMMReBgaPGUM"],
-      ['University Inn', '3', "ChIJk91uaPQUkFQR65S3l9ByrBw"],
+      ['Maple Hall', 'MH', "ChIJgdYywfMUkFQRFQYbApRgxRQ", "http://uw.edu/maps/?mah"],
+      ['Silver Cloud Inn', '1', "ChIJdS0Vx4cUkFQRv-UDFEvfpKY", "https://www.silvercloud.com/university/"],
+      ['Watertown Hotel', '2', "ChIJNXONXPQUkFQRMMReBgaPGUM", "https://www.staypineapple.com/watertown-hotel-seattle-wa"],
+      ['University Inn', '3', "ChIJk91uaPQUkFQR65S3l9ByrBw", "https://www.staypineapple.com/university-inn-seattle-wa"],
     ];
 
     map = new google.maps.Map(document.getElementById('map'), {
@@ -50,7 +50,7 @@ Please contact us at [rauv@uw.edu](mailto:rauv@uw.edu) with questions.
       function callback(location, place, status) {
         if (status == google.maps.places.PlacesServiceStatus.OK) {
           var infowindow = new google.maps.InfoWindow({
-            content: location[0]
+            content: "<a href=" + location[3] + ">" + location[0] + "</a>"
           });
 
 
