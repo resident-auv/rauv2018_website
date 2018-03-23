@@ -11,11 +11,14 @@ The Resident AUV Workshop will be held May 9-11 in [Maple Hall](http://uw.edu/ma
 
 We have reserved space at group rates at the following hotels:
 
-1. [Silver Cloud Inn](https://www.silvercloud.com/university/) (1.3 miles from the venue)
-1. [Watertown Hotel](https://www.staypineapple.com/watertown-hotel-seattle-wa) (0.3 miles from venue)
-1. [University Inn](https://www.staypineapple.com/university-inn-seattle-wa) (0.2 miles from the venue)
+1. __[Silver Cloud Inn](https://www.silvercloud.com/university/)__ (1.3 miles from the venue)<br>To secure the group rate at the Silver Cloud, use [this link](https://university.silvercloud.com/irmnet/(S(coilyhis0uvilawdxnlvj0bb))/res/resmain.aspx?g=RESIDENT&o=LABORATORY) or call the hotel directly at (206) 526-5200 or 1 (800) 205-6940 and ask for the "Resident-AUV" or "RESIDENT" group and the guest services agent will be able to assist with the reservation.    Must reserve by __April 10th__.
 
-To secure a group rates, please mention  "Resident AUV - UW Oceanography" by __April 10th__.
+2. __[Watertown Hotel](https://www.staypineapple.com/watertown-hotel-seattle-wa)__ (0.3 miles from venue).
+[Book online with code UWOCEANWT](https://gc.synxis.com/rez.aspx?shell=PineappleChain2&template=PineappleChain&Hotel=40206&Chain=17448&arrive=05/08/2018&depart=05/11/2018&adult=1&child=0&group=UWOCEANWT)  by __April 8th__.  The Watertown does not include breakfast.
+
+3.  __[University Inn](https://www.staypineapple.com/university-inn-seattle-wa)__ (0.2 miles from the venue).  [Book online with the code UWOCEANUI](Link:https://gc.synxis.com/rez.aspx?shell=PineappleChain2&template=PineappleChain&Hotel=40207&Chain=17448&arrive=05/08/2018&depart=005/11/2018&adult=1&child=0&group=UWOCEANUI) by __April 8th__.  The University Inn _does_ include breakfast.
+
+
 
 Please contact us at [rauv@uw.edu](mailto:rauv@uw.edu) with questions.
 
