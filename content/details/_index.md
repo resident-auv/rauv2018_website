@@ -49,16 +49,24 @@ Please contact us at [rauv@uw.edu](mailto:rauv@uw.edu) with questions.
 
       function callback(location, place, status) {
         if (status == google.maps.places.PlacesServiceStatus.OK) {
-          var infowindow = new google.maps.InfoWindow({
-            content: "<a href=" + location[3] + ">" + location[0] + "</a>"
-          });
-
 
           var icon = "spotlight-waypoint-a";
+          var address = place.address_components[0].long_name + " " + place.address_components[1].long_name;
 
           if (location[1] == 'MH') {
             icon = "spotlight-waypoint-b";
+            var address = place.address_components[1].long_name + " " + place.address_components[2].long_name;
           }
+
+          var infowindow = new google.maps.InfoWindow({
+            // I realize this extraction of address is brittle...
+            content: "<a href=" + location[3] + ">" + location[0] + "</a><br>" + address
+          });
+
+
+
+
+
 
           var iconUrl = "https://mts.googleapis.com/vt/icon/name=icons/spotlight/"+icon+".png&text=" + location[1] + "&psize=16&color=ff333333&ax=44&ay=48&scale=1";
 
