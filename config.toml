@@ -33,4 +33,6 @@ enableRobotsTXT = true
   featured_image = "/images/RAUV_header.jpg"
   recent_posts_number = 2
 
-  custom_css = ["css/custom_table.css", "css/measure_wide.css"]
+  custom_css = ["css/custom_table.css",
+                "css/measure_wide.css",
+                "css/pv6.css"]
