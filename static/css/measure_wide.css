@@ -1,3 +1,7 @@
 .measure-wide {
     max-width: 70%;
 }
+
+.measure-wide-l {
+    max-width: 60%;
+}
