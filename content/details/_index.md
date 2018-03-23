@@ -3,7 +3,7 @@ title: "Details"
 weight: 40  # weight sets the order in the menu at the top of the page
 ---
 
-The Resident AUV Workshop will be held May 9-11 in [Maple Hall](http://uw.edu/maps/?mah) near the University of Washington Seattle campus.
+The Resident AUV Workshop will be held May 9-11 in [Maple Hall](http://uw.edu/maps/?mah) adjacent to the University of Washington Seattle campus.
 
 <div id="map" style="height: 450px; width: 100%;"></div>
 
