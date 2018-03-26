@@ -5,8 +5,6 @@ title: ""
 
 ## [Registration now open!](https://form.jotform.com/80745900013145)
 
-All participants will have an opportunity to give a 2 minute lightning talk during the conference.
-
 Questions?   Please email us [rauv@uw.edu](rauv@uw.edu)!
 
 ----
