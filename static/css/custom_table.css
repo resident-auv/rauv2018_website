@@ -11,4 +11,4 @@ table, th, td {
   border: 1px solid LightGray;
 }
 
-tr:nth-child(even) {background-color: #d0d0f0;}
+tr:nth-child(even) {background-color: #e0e0f0;}

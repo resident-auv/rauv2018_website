@@ -3,7 +3,7 @@ title: "Schedule"
 weight: 60  # weight sets the order in the menu at the top of the page
 ---
 
-# Preliminary Schedule:
+# Tentative Schedule:
 
 ## Wednesday May 9th  (8:30 AM - 5:00 PM)
 
@@ -15,7 +15,7 @@ Time | &nbsp;
 8:30&nbsp;AM | __Opening Remarks__<br>John Delaney,  Dana Manalang, NSF Rep
 8:45&nbsp;AM | __A Vision & Challenge for R-AUVs__<br> Dana Manalang (APL-UW)
 9:10&nbsp;AM | __OOI Cabled Array - Capabilities and Potential__<br>  Deb Kelley
-9:20&nbsp;AM | __Axial Seamount - A Wired Window to Real-Time Mid-Ocean Ridge Impacts on Overlying Oceans__ <br>Focused (6 Min) talks<br>J. Delaney -  Overview - How to optimize transparency<br>Ed Baker - Eruptive Plumes<br>William Wilcock - Defining Eruptive Events - before, during, and after<br>Bill Chadwick - Inflation and long-range prediction of Axial Eruptions<br>Guangyu Xu & Bill Lavalle - Modeling fluid flow in the Axial Environment<br>Doug Luther & Kendra Daly - Water-Column Studies of Axial Seamount<br>Jim Holden & Julie Huber - Microbial Studies of the Axial System  |    
+9:20&nbsp;AM | __Axial Seamount - A Wired Window to Real-Time Mid-Ocean Ridge Impacts on Overlying Oceans__ <br>Focused (6 Min) talks<br>J. Delaney -  Overview - How to optimize transparency<br>Ed Baker - Eruptive Plumes<br>William Wilcock - Defining Eruptive Events - before, during, and after<br>Bill Chadwick - Inflation and long-range prediction of Axial Eruptions<br>Guangyu Xu & Bill Lavalle - Modeling fluid flow in the Axial Environment<br>Doug Luther & Kendra Daly - Water-Column Studies of Axial Seamount<br>Jim Holden & Julie Huber - Microbial Studies of the Axial System  |
 10:10&nbsp;AM | __Enabling Technologies__<br>Ben Waters (Wibotic) - Wireless Power<br>Norm Farr (WHOI) - Optical Communications
 10:30&nbsp;AM | Coffee Break
 10:45&nbsp;AM | Science Applications for R-AUVs: from the Arctic to Outer Space - Tim Crone<br>Pierre Dutrieux (Lamont) - Polar Applications<br>Gas Hydrate Systems - Marta Torres (OSU) & Tamara Baumberger (NOAA)<br>Kevin Hand (JPL) Chris German (WHOI) - Oceans in Our Solar System<br>Dave Karl (tentative) U Hawaii - Open Ocean AUV’s with ESP on board
