@@ -3,13 +3,11 @@ title: ""
 #description: "February 21-23 2018, UW School of Oceanography"
 ---
 
-## Registration is now open --> [here!](https://form.jotform.com/80745900013145)
+## Registration is still open! --> [here!](https://form.jotform.com/80745900013145)
 
 # News
 
- A reminder that __we still have a reduced price__ on the block of rooms we have reserved at the Watertown and the University Inn both on Roosevelt and both within 5 blocks of the meeting location, see [Details](details/)
-
-We are re-purposing the [NOVAE website](http://novae.ocean.washington.edu/): [http://novae.ocean.washington.edu/](http://novae.ocean.washington.edu/), which was initially set up to provide background information on Axial Seamount prior to the April 2015 NOVAE Workshop.  That workshop was held two days before the most recent eruption of Axial (April 24, 2015).   _Please be patient with the evolution of this website as it needs considerable restructuring to emerge as the Axial System Resource it is intended to become._
+Attendees, please submit your lightening talk slides by email to [rauv@uw.edu](mailto:rauv@uw.edu) by May 1, 2018!
 
 Questions?   Please email us [rauv@uw.edu](rauv@uw.edu)!
 
