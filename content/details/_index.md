@@ -3,20 +3,23 @@ title: "Details"
 weight: 40  # weight sets the order in the menu at the top of the page
 ---
 
-The Resident AUV Workshop will be held May 9-11 in [Maple Hall](http://uw.edu/maps/?mah) adjacent to the University of Washington Seattle campus.
+The Resident AUV Workshop will be held May 9-11 on the University of Washington Seattle campus.
+
+__May 9-10__ will be in the Maple Hall Great Room (MH on map).  Doors open at 8AM.
+
+__May 11__ will be in Henderson Hall (HH on map) Hardisty Conference Center. Use the east entrance and follow the signage or ask at the front desk.  Doors open at 8AM.
+
+The reception on May 9 will be at 909 Boat Street (909 on map), a short walk from Maple Hall.
+
+Workshop venues are a short walk from the University Inn and Watertown.
+
+
+## Parking
+
+
+[Paid parking](https://facilities.uw.edu/transportation/parking-daily-visitor) is available on campus (~4 blocks from workshop venues).  Please see a Campus Gatehouse for details.
 
 <div id="map" style="height: 450px; width: 100%;"></div>
-
-## Accommodataion
-
-<!-- We have reserved space at group rates at the following hotels:
-
-1. __[Silver Cloud Inn](https://www.silvercloud.com/university/)__ (1.3 miles from the venue)<br>To secure the group rate at the Silver Cloud, use [this link](https://university.silvercloud.com/irmnet/(S(coilyhis0uvilawdxnlvj0bb))/res/resmain.aspx?g=RESIDENT&o=LABORATORY) or call the hotel directly at (206) 526-5200 or 1 (800) 205-6940 and ask for the "Resident-AUV" or "RESIDENT" group and the guest services agent will be able to assist with the reservation.    Must reserve by __April 10th__.
-
-2. __[Watertown Hotel](https://www.staypineapple.com/watertown-hotel-seattle-wa)__ (0.3 miles from venue).
-[Book online with code UWOCEANWT](https://gc.synxis.com/rez.aspx?shell=PineappleChain2&template=PineappleChain&Hotel=40206&Chain=17448&arrive=05/08/2018&depart=05/11/2018&adult=1&child=0&group=UWOCEANWT)  by __April 11th__.  The Watertown does not include breakfast.
-
-3.  __[University Inn](https://www.staypineapple.com/university-inn-seattle-wa)__ (0.2 miles from the venue).  [Book online with the code UWOCEANUI](Link:https://gc.synxis.com/rez.aspx?shell=PineappleChain2&template=PineappleChain&Hotel=40207&Chain=17448&arrive=05/08/2018&depart=005/11/2018&adult=1&child=0&group=UWOCEANUI) by __April 11th__.  The University Inn _does_ include breakfast. -->
 
 
 
@@ -30,11 +33,13 @@ Please contact us at [rauv@uw.edu](mailto:rauv@uw.edu) with questions.
     // Third column is Google "Place ID".  Look up here:
     //  https://developers.google.com/places/place-id
     var locations = [
-      ['Maple Hall', 'MH', "ChIJgdYywfMUkFQRFQYbApRgxRQ", "http://uw.edu/maps/?mah"]
+      ['Maple Hall', 'MH', "ChIJgdYywfMUkFQRFQYbApRgxRQ", "http://uw.edu/maps/?mah"],
+      ['Henderson Hall', 'HH', "ChIJWb7C2fMUkFQRsX0QJ2aFH94", "http://uw.edu/maps/?hnd"],
+      ['909 Boat St.', '909', "ChIJE6f8C_EUkFQRcIXj55hfJOs", ""]
     ];
 
     map = new google.maps.Map(document.getElementById('map'), {
-      center: {lat: 47.6605, lng: -122.3082},
+      center: {lat: 47.655, lng: -122.315},
       zoom: 15
     });
 
