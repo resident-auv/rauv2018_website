@@ -35,4 +35,5 @@ enableRobotsTXT = true
 
   custom_css = ["css/custom_table.css",
                 "css/measure_wide.css",
-                "css/pv6.css"]
+                "css/pv6.css",
+                "css/float_images.css"]
