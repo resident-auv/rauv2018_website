@@ -3,8 +3,6 @@ title: ""
 #description: "February 21-23 2018, UW School of Oceanography"
 ---
 
-## Registration is still open! --> [here!](https://form.jotform.com/80745900013145)
-
 # News
 
 Attendees, please submit your lightening talk slides by email to [rauv@uw.edu](mailto:rauv@uw.edu) by May 1, 2018!
