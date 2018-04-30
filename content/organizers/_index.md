@@ -6,7 +6,7 @@ weight: 90  # weight sets the order in the menu at the top of the page
 
 # John Delaney
 
-![](../images/mola_mola.jpg#floatleft)
+![](../images/jrd_headshot_smsq.jpg#floatleft)
 [John Delaney](http://ooi.washington.edu/rsn/jrd/) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ac massa eu eros elementum pretium. Vivamus pharetra dictum ex, quis.
 
 <br style="clear: both;" />
@@ -23,7 +23,7 @@ weight: 90  # weight sets the order in the menu at the top of the page
 
 # Anuscheh Nawaz
 
-![](../images/mola_mola.jpg#floatleft)
+![](../images/nawaz_anuscheh.jpg#floatleft)
 
 [Anuscheh Nawaz](http://apl.washington.edu/people/profile.php?last_name=Nawaz&first_name=Anuscheh) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ac massa eu eros elementum pretium. Vivamus pharetra dictum ex, quis.
 
