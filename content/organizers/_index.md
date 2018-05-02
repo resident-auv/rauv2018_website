@@ -25,7 +25,7 @@ weight: 90  # weight sets the order in the menu at the top of the page
 
 ![](../images/nawaz_anuscheh.jpg#floatleft)
 
-[Anuscheh Nawaz](http://apl.washington.edu/people/profile.php?last_name=Nawaz&first_name=Anuscheh) is a Research Engineering in the UW-APL Ocean Engineering Department.
+[Anuscheh Nawaz](http://apl.washington.edu/people/profile.php?last_name=Nawaz&first_name=Anuscheh) is a Research Engineering in the UW-APL Ocean Engineering Department.  With a background in aerospace engineering and electric propulsion, she designed and optimized pulsed plasma thrusters at the University of Stuttgart, Germany. At NASA Ames Research Center she was responsible for plasma characterization  ith the goal of increasing confidence in measurement and prediction. She has taken lead roles in two start-ups aiming to commercialize air quality sensors, and has recently joined APL with the goal of bringing cutting edge sensor technology to scientifically relevant problems.  
 
 <br style="clear: both;" />
 
