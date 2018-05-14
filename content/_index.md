@@ -3,11 +3,7 @@ title: ""
 #description: "February 21-23 2018, UW School of Oceanography"
 ---
 
-# News
-
-Attendees, please submit your lightening talk slides by email to [rauv@uw.edu](mailto:rauv@uw.edu) by May 1, 2018!
-
-Questions?   Please email us [rauv@uw.edu](rauv@uw.edu)!
+# Thank you to all RAUV participants!
 
 ----
 
